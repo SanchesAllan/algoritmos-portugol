@@ -1,12 +1,12 @@
 algoritmo "OlaMundo"
-// Função : Primeiro Programa
+// FunÃ§Ã£o : Primeiro Programa
 // Autor : Allan Sanches
 // Data : 26/01/2026
-// Seção de Declarações 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes 
 var
 msg:caractere
 inicio
-msg<-"Olá Mundo"
+msg<-"OlÃ¡ Mundo"
  escreval(msg)
  escreva("Saltou para a linha de baixo")
 
