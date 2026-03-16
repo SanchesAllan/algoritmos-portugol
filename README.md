@@ -9,6 +9,6 @@ Repositório com exercícios de lógica de programação feitos em Portugol.
 - Operações matemáticas
 - Exercícios básicos de algoritmos
 
-## Ferramenta utilizada
+## Ferramenta Utilizada
 
 Portugol Studio
