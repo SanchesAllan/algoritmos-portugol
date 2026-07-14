@@ -1,16 +1,12 @@
 algoritmo "Exercicio3"
-// Função : Mostrar Funcionário e Salário
-// Autor : Allan Sanches
-// Data : 27/01/2026
-// Seção de Declarações 
 var
-nome, salario:caractere
+      nome, salario:caractere
 inicio
-      escreva("Qual o nome do funcionário? ")
+      escreva("Qual o nome do funcionÃ¡rio? ")
       leia(nome)
-      escreva("Qual o salário do funcionário? ")
+      escreva("Qual o salÃ¡rio do funcionÃ¡rio? ")
       leia(salario)
-      escreval("Nome do Funcionário: ", nome)
-      escreval("Salário: R$", salario)
-      escreva("O funcionário ",nome, " tem o salário de R$", salario)
+      escreval("Nome do FuncionÃ¡rio: ", nome)
+      escreval("SalÃ¡rio: R$", salario)
+      escreva("O funcionÃ¡rio ",nome, " tem o salÃ¡rio de R$", salario)
 fimalgoritmo
