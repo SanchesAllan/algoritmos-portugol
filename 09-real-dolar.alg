@@ -1,3 +1,9 @@
+// =========================================================================
+// ENUNCIADO: 
+// Faça um algoritmo que leia quanto dinheiro uma pessoa tem na carteira (em R$) 
+e mostre quantos dólares ela pode comprar.
+// =========================================================================
+
 algoritmo "real-dolar"
 var
   carteira, dolar:real
