@@ -1,3 +1,9 @@
+// =========================================================================
+// ENUNCIADO: 
+// Faça um programa que leia um número inteiro e mostre o seu antecessor e seu 
+sucessor. 
+// =========================================================================
+
 algoritmo "antecessor-e-sucessor"
 var
   n1, ant, suc:inteiro
