@@ -1,8 +1,6 @@
 algoritmo "apresentacao"
- 
 var
    nome:caractere
-
 inicio
    escreva("Qual o seu nome? ")
    leia(nome)
