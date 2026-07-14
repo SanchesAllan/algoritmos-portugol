@@ -1,3 +1,9 @@
+// =========================================================================
+// ENUNCIADO: 
+// Desenvolva um algoritmo que leia dois números inteiros e mostre o somatório 
+entre eles. 
+// =========================================================================
+
 algoritmo "soma-numeros"
 var
   n1,n2,soma:inteiro
