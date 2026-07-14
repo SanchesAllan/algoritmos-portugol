@@ -1,3 +1,8 @@
+// =========================================================================
+// ENUNCIADO: 
+// Desenvolva um programa que leia uma distância em metros e mostre os valores 
+relativos em outras medidas. 
+// =========================================================================
 algoritmo "conversao-de-medidas"
 var
   m, km, hm, dam, dm, cm, mm:real
