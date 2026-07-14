@@ -1,3 +1,9 @@
+// =========================================================================
+// ENUNCIADO: 
+// Crie um algoritmo que leia um número real e mostre na tela o seu dobro e a 
+sua terça parte. 
+// =========================================================================
+
 algoritmo "dobro-terca-parte"
 var
   n1, dobro, terco:real
