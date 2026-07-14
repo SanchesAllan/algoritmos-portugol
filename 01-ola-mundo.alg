@@ -1,3 +1,8 @@
+// =========================================================================
+// ENUNCIADO: 
+// Escreva um programa que mostre na tela a mensagem "Olá, Mundo!
+// =========================================================================
+
 algoritmo "ola-mundo" 
 var
  msg:caractere
