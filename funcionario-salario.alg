@@ -1,4 +1,4 @@
-algoritmo "Exercicio3"
+algoritmo "funcionario-salario"
 var
       nome, salario:caractere
 inicio
