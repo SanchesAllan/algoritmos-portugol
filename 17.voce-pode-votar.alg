@@ -1,19 +1,19 @@
+// =========================================================================
+// ENUNCIADO:
+// FaÃ§a um programa que leia o ano de nascimento de uma pessoa, calcule a idade 
+// dela e depois mostre se ela pode ou nÃ£o votar. 
+// =========================================================================
 algoritmo "voce-pode-votar-?"
-// Função :
-// Autor :
-// Data : 02/02/2026
-// Seção de Declarações
 var
-idade, ano_nasc:inteiro
+   idade, ano_nasc:inteiro
 inicio
-escreval("Em qual ano você nasceu?")
-leia(ano_nasc)
-idade <- 2026 - ano_nasc
-escreval("Você tem", idade, " ano(s)")
-se idade>=18 entao
-   escreva("Você já pode votar nessa eleição!")
-senao
-   escreva("Você ainda não pode votar")
-fimse
-// Seção de Comandos
+      escreval("Em qual ano vocÃª nasceu?")
+      leia(ano_nasc)
+      idade <- 2026 - ano_nasc
+      escreval("VocÃª tem", idade, " ano(s)")
+      se idade>=18 entao
+         escreva("VocÃª jÃ¡ pode votar nessa eleiÃ§Ã£o!")
+      senao
+         escreva("VocÃª ainda nÃ£o pode votar")
+      fimse
 fimalgoritmo
