@@ -1,23 +1,19 @@
 algoritmo "Media_Composta"
-// Função : Calculadora de Média
-// Autor : Allan Sanches da Silva Campos
-// Data : 21/03/2026
-// Seção de Declarações 
 var
- nota1, nota2, media: Real
+   nota1, nota2, media: Real
 inicio
       Escreva("Qual a nota da primeira prova? ")
       Leia(nota1)
       Escreva("Qual a nota da segunda prova? ")
       Leia(nota2)
       media <- (nota1 + nota2) / 2
-       Se (media <= 4.9 ) entao
-         Escreval("A sua média é ",media, " e você está reprovado")
+      Se (media <= 4.9 ) entao
+         Escreval("A sua mÃ©dia Ã© ",media, " e vocÃª estÃ¡ reprovado")
       senao
            Se (media <= 6.9) entao
-              Escreval("A sua média é ",media, " e você está em recuperação")
+              Escreval("A sua mÃ©dia Ã© ",media, " e vocÃª estÃ¡ em recuperaÃ§Ã£o")
               senao
-              Escreval("A sua média é ",media, " e você está aprovado. Parabéns!")
+              Escreval("A sua mÃ©dia Ã© ",media, " e vocÃª estÃ¡ aprovado. ParabÃ©ns!")
            FimSe
       FimSe
 fimalgoritmo
