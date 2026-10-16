@@ -1,7 +1,7 @@
 // =========================================================================
 // ENUNCIADO: 
 // Faça um programa que leia as duas notas de um aluno em uma matéria e mostre 
-na tela a sua média na disciplina. 
+// na tela a sua média na disciplina. 
 // =========================================================================
 
 algoritmo "media"
