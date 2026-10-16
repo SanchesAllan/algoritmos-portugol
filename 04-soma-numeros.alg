@@ -1,7 +1,7 @@
 // =========================================================================
 // ENUNCIADO: 
 // Desenvolva um algoritmo que leia dois números inteiros e mostre o somatório 
-entre eles. 
+// entre eles. 
 // =========================================================================
 
 algoritmo "soma-numeros"
